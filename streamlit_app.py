@@ -1,5 +1,5 @@
 import streamlit as st
-import hugchat
+from hugchat import hugchat
 from hugchat.login import Login
 
 # App title
